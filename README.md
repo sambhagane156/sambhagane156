@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi, I'm Samarth 👋
 
-<!--
-**sambhagane156/sambhagane156** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full Stack Python Developer** passionate about building real-world web applications.
 
-Here are some ideas to get you started:
+### 🚀 Skills
+- **Backend:** Python, Django, Flask
+- **Frontend:** HTML, CSS, JavaScript
+- **Database:** SQLite, MySQL
+- **Tools:** Git, GitHub, VS Code
+- **Concepts:** REST APIs, Authentication, CRUD, MVC
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Projects
+- 🌸 **Flower Shop E-commerce Website**
+  - Admin, Vendor & User roles
+  - Product management & orders
+  - Flask + SQLite
+
+- 🎵 **Spotify Clone**
+  - Flask backend
+  - Responsive UI
+  - SQLite database
+
+### 📚 Currently Learning
+- Django REST Framework (DRF)
+- API development & deployment
+
+### 📫 Connect with Me
+- GitHub: https://github.com/sambhagane156
+
+⭐ Always learning and improving
