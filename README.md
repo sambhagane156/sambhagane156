@@ -1,4 +1,4 @@
-## Hi, I'm Samarth 👋
+## Hi, I'm Samarth Bhagane 👋
 
 I'm a **Full Stack Python Developer** passionate about building real-world web applications.
 
@@ -28,6 +28,6 @@ I'm a **Full Stack Python Developer** passionate about building real-world web a
 - API development & deployment
 
 ### 📫 Connect with Me
-- GitHub: https://github.com/sambhagane156
+- GitHub: https://sambhagane156.github.io/Samarth-Bhagane/
 
 ⭐ Always learning and improving
