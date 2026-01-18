@@ -10,11 +10,14 @@ I'm a **Full Stack Python Developer** passionate about building real-world web a
 - **Concepts:** REST APIs, Authentication, CRUD, MVC
 
 ### 💻 Projects
-- 🌸 **Flower Shop E-commerce Website**
-  - Admin, Vendor & User roles
-  - Product management & orders
-  - Flask + SQLite
-
+- 🚗 **End-to-End Lane Detection System**
+  - Developed an autonomous driving assistance module for accurate road lane detection
+  - Implemented image preprocessing using **OpenCV**
+  - Applied **Canny Edge Detection** for edge extraction
+  - Used **Hough Transform** to detect and track lane lines
+  - Designed to support **ADAS features** such as Lane Departure Warning (LDW) and Lane Keep Assist (LKA)
+  - Focused on improving road safety, reducing accidents, and enhancing driving comfort
+    
 - 🎵 **Spotify Clone**
   - Flask backend
   - Responsive UI
